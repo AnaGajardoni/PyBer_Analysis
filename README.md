@@ -19,7 +19,7 @@ Lastly, the following chart shows the revenue from January to March 2019 aggrega
 
 ## Summary
 
-!(/analysis/PyBer_summary.png)
+![PyBer_summary](/analysis/PyBer_summary.png)
 
  According to the data, the urban areas are responsible for the majority of the revenue, but my recommendation is to dive in a deeper analysis taking into account:
     * the population size of each area: it would be interesting to find out the correlation between rides and the population of each area. Would they be all similar in percentages? Or would they vary? The reason for my recommendation is because we compared urban, suburban and rural areas, but the real number of people in each area was never disclosed. The number of rides may be lower simply because there are less people!
