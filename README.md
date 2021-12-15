@@ -5,16 +5,17 @@ PyBer is a Python-based ride-sharing App Company that wants to understand how to
 
 ## Results
 
-[//]![Fig1](/analysis/Fig1.png)
-![Fig2](/analysis/Fig2.png)
-![Fig3](/analysis/Fig3.png)
-![Fig4](/analysis/Fig4.png)
+[//![Fig2](/analysis/Fig2.png)]
+[//![Fig3](/analysis/Fig3.png)]
+[//![Fig4](/analysis/Fig4.png)]
 
 The following three pie charts show clearly that the Urban city holds the most fares, drivers and rides. And even the breakdown is similar in all three cases: between 60 and 80% of all fares, rides and drivers are concentrated in urban areas. Suburban areas are responsible for percentages between 16 and 30% and, lastly, rural areas have a slim slice varying from 2.5 to 6.8%. These numbers are not surprising since it is logical to have more drivers and rides in more populated areas, which usually means more demand.
 
 ![Fig5](/analysis/Fig5.png) ![Fig6](/analysis/Fig6.png) ![Fig7](/analysis/Fig7.png)
 
 When we correlate these charts with the following one (PyBer Ride-Sharing Data), we notice that average fare decreases as the number of drivers increase: it seems that, the more drivers, the more riders, the less the ride will cost. That also makes some sense according to simple supply and demand concepts. 
+
+![Fig1](/analysis/Fig1.png)
 
 ![PyBer_fare_summary](/analysis/PyBer_fare_summary.png)
 
